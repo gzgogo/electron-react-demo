@@ -1,0 +1,16 @@
+.idea
+.vscode
+node_modules
+dist
+dist/*
+*/.DS_Store
+.DS_Store
+npm-debug.log
+*.swp
+/local.json
+mock/data_origin
+mock/data1
+mock/data2
+mock/dist
+mock/test_less
+mock/release
